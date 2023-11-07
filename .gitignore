@@ -1,0 +1,10 @@
+# Python3.12 folder
+.venv
+src/**/__pycache__
+
+# .env files
+.env.shared
+.env.secret
+
+# VSCode
+.vscode
